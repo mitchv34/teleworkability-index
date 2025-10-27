@@ -1,0 +1,8 @@
+SCALE_ID,CATEGORY,CATEGORY_DESCRIPTION
+FT,1,Yearly or less
+FT,2,More than yearly
+FT,3,More than monthly
+FT,4,More than weekly
+FT,5,Daily
+FT,6,Several times daily
+FT,7,Hourly or more
