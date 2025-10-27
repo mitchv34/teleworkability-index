@@ -1,0 +1,2 @@
+split,f1,mae_non_zero,mae,correlation,correlation_non_zero,r2,r2_non_zero
+train,0.961,0.046,0.022,0.974,0.958,0.93,0.879
