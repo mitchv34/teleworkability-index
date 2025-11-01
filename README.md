@@ -1,6 +1,6 @@
-Teleworkability Index (ψ$\) - Minimal, Self-Contained Repository
+# Teleworkability Index 
 
-This repository contains a minimal, self-contained implementation to construct the occupation-level teleworkability index ψ from O*NET features and ORS labels.
+This repository contains a minimal, self-contained implementation to construct the occupation-level teleworkability index from O*NET features and ORS labels.
 
 Contents
 - wfh_share_estimation.py: Core pipeline (DataLoader, DataStore, Mode
